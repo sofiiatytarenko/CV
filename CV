@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+
+    <style>
+        h2{color:brown; font-style:oblique}
+    </style>
+</head>
+<body>
+    <h1>CV</h1>
+    <img scr="https://img5.goodfon.ru/wallpaper/nbig/3/73/abstraktsiia-antisfera-vodovorot-krasok-kartinka-chernyi-fon.jpg" width="40" height="70" alt="фото">
+
+    <div>
+        <h2>Contact information</h2>
+        <h3>Full name: Tytarenko Sofiia Vitaliivna</h3>
+        <h3>Date of Birth: July the 19th, 1998</h3>
+        <h3>City: Kyiv</h3>
+       <h3>Email:stitarenkoo1@gmail.com</h3>
+
+       <h2>Work experience</h2>
+       <p>SEO, 1.5 years</p>
+    </div>
+
+    
+    <h2>Soft skills</h2>
+    <ul>
+        <li>a little bit of this</li>
+        <li>a little bit of that</li>
+        <li>anyway, I can do things</li>
+    </ul>
+</body>
+</html>
